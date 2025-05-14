@@ -53,7 +53,7 @@
 
 ### 📊 GitHub Stats
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmedshalaan&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+![Ahmed's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Ahmedshalaan&theme=vue-dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedshalaan&layout=compact&theme=radical)
 
