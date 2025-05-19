@@ -46,11 +46,31 @@
       <a href="https://github.com/AhmedShalaan/MVCApp">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedShalaan&repo=MVCApp&theme=tokyonight" />
       </a>
+      <p>
+        <strong>Demo.PL</strong>: Contains the MVC controllers, views, and UI logic.<br />
+        <strong>Demo.BLL</strong>: Includes the application’s core business logic, services, and DTOs.<br />
+        <strong>Demo.DAL</strong>: Handles data persistence, database context, repositories, and entity configurations.
+      </p>
     </td>
     <td>
       <a href="https://github.com/AhmedShalaan/Web_Api_E-commerc">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedShalaan&repo=Web_Api_E-commerc&theme=tokyonight" />
       </a>
+      <p><strong>API Features:</strong></p>
+      <ul>
+        <li>🧱 Clean Architecture with DDD</li>
+        <li>🔐 JWT Authentication & Authorization</li>
+        <li>🛍️ Products & Orders domain modeling</li>
+        <li>🧾 DTO Mapping for secure data handling</li>
+        <li>📦 Repository + Unit of Work patterns</li>
+        <li>💾 Entity Framework Core with migrations</li>
+        <li>🚀 Redis caching support</li>
+        <li>⚠️ Custom global error handling middleware</li>
+        <li>📤 Seeding support from JSON files</li>
+        <li>🔍 Specification Pattern for queries</li>
+        <li>📑 Swagger UI integration (optional)</li>
+        <li>📮 Postman Collection for API testing</li>
+      </ul>
     </td>
   </tr>
 </table>
