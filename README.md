@@ -43,7 +43,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/AhmedShalaan/MVCApp">
+      <a href="https://github.com/Ahmedshalaan/Management-System_MVC">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedShalaan&repo=MVCApp&theme=tokyonight" />
       </a>
       <p>
