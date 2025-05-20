@@ -44,7 +44,7 @@
   <tr>
     <td>
       <a href="https://github.com/Ahmedshalaan/Management-System_MVC">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedShalaan&repo=MVCApp&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedShalaan&repo=Management-System_MVC&theme=tokyonight" />
       </a>
       <p>
         <strong>Demo.PL</strong>: Contains the MVC controllers, views, and UI logic.<br />
