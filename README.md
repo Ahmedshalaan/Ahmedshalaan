@@ -47,7 +47,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedShalaan&repo=Management-System_MVC&theme=tokyonight" />
       </a>
       <p>
-        <strong>Demo.PL</strong>:  https://mvc123.runasp.net/<br />
+        <strong>Can you try my App</strong>:  https://mvc123.runasp.net/<br />
         <strong>Demo.PL</strong>: Contains the MVC controllers, views, and UI logic.<br />
         <strong>Demo.BLL</strong>: Includes the application’s core business logic, services, and DTOs.<br />
         <strong>Demo.DAL</strong>: Handles data persistence, database context, repositories, and entity configurations.
