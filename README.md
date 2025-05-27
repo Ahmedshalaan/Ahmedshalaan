@@ -54,10 +54,10 @@
       </p>
     </td>
     <td>
-      <a href="https://github.com/AhmedShalaan/Web_Api_E-commerc">
+    <a href="http://localhost:5000/api/Products">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedShalaan&repo=Web_Api_E-commerc&theme=tokyonight" />
       </a>
-      <p> <strong>Can you see one endpoint and try </strong>: (http://localhost:5000/api/Products)/<br />
+      <p> 
         <strong>API Features:</strong>
       </p>
       <ul>
