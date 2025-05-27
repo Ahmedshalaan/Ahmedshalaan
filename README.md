@@ -54,13 +54,13 @@
       </p>
     </td>
     <td>
-    <a href="http://localhost:5000/api/Products">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedShalaan&repo=Web_Api_E-commerc&theme=tokyonight" />
       </a>
       <p> 
         <strong>API Features:</strong>
       </p>
       <ul>
+         <li>🔗 <a href="http://localhost:5000/api/Products">Try Products Endpoint</a></li> </ul> </td> </tr> </table>
         <li>🧱 Clean Architecture with DDD</li>
         <li>🔐 JWT Authentication & Authorization</li>
         <li>🛍️ Products & Orders domain modeling</li>
