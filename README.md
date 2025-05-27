@@ -57,7 +57,9 @@
       <a href="https://github.com/AhmedShalaan/Web_Api_E-commerc">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedShalaan&repo=Web_Api_E-commerc&theme=tokyonight" />
       </a>
-      <p><strong>API Features:</strong></p>
+      <p> <strong>Can you see one endpoint and try </strong>: (http://localhost:5000/api/Products)/<br />
+        <strong>API Features:</strong>
+      </p>
       <ul>
         <li>🧱 Clean Architecture with DDD</li>
         <li>🔐 JWT Authentication & Authorization</li>
