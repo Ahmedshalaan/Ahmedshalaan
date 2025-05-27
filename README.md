@@ -36,47 +36,50 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sh3laan)
 
 ---
-
-
-### 📦 My Repositories :
+### 📦 My Repositories
 
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <a href="https://github.com/Ahmedshalaan/Management-System_MVC">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedShalaan&repo=Management-System_MVC&theme=tokyonight" />
       </a>
       <p>
-        <strong>Can you try my App</strong>:  https://mvc123.runasp.net/<br />
-        <strong>Demo.PL</strong>: Contains the MVC controllers, views, and UI logic.<br />
-        <strong>Demo.BLL</strong>: Includes the application’s core business logic, services, and DTOs.<br />
-        <strong>Demo.DAL</strong>: Handles data persistence, database context, repositories, and entity configurations.
+        <strong>🌐 Live Demo:</strong> <a href="https://mvc123.runasp.net/">https://mvc123.runasp.net/</a><br/><br/>
+        <strong>🧱 Project Layers:</strong>
+        <ul>
+          <li><strong>Demo.PL</strong>: MVC Controllers, Views, UI logic</li>
+          <li><strong>Demo.BLL</strong>: Core business logic, services, DTOs</li>
+          <li><strong>Demo.DAL</strong>: Database context, repositories, EF config</li>
+        </ul>
       </p>
     </td>
-    <td>
+    <td width="50%">
+      <a href="https://github.com/Ahmedshalaan/Web_Api_E-commerc">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedShalaan&repo=Web_Api_E-commerc&theme=tokyonight" />
       </a>
-      <p> 
-        <strong>API Features:</strong>
-      </p>
+      <p><strong>🚀 API Features:</strong></p>
       <ul>
-         <li>🔗 <a href="http://localhost:5000/api/Products">Try Products Endpoint</a></li> </ul> </td> </tr> </table>
         <li>🧱 Clean Architecture with DDD</li>
         <li>🔐 JWT Authentication & Authorization</li>
         <li>🛍️ Products & Orders domain modeling</li>
         <li>🧾 DTO Mapping for secure data handling</li>
         <li>📦 Repository + Unit of Work patterns</li>
-        <li>💾 Entity Framework Core with migrations</li>
-        <li>🚀 Redis caching support</li>
-        <li>⚠️ Custom global error handling middleware</li>
-        <li>📤 Seeding support from JSON files</li>
-        <li>🔍 Specification Pattern for queries</li>
-        <li>📑 Swagger UI integration (optional)</li>
-        <li>📮 Postman Collection for API testing</li>
+        <li>💾 EF Core with migrations</li>
+        <li>🚀 Redis caching</li>
+        <li>⚠️ Global error handling middleware</li>
+        <li>📤 Data seeding from JSON</li>
+        <li>🔍 Specification Pattern</li>
+        <li>📑 Swagger UI integration</li>
+        <li>📮 Postman Collection included</li>
       </ul>
+      <p>
+        🔗 <strong>Products Endpoint:</strong> <code>http://localhost:5000/api/Products</code> (Run locally)
+      </p>
     </td>
   </tr>
 </table>
+
 
 ---
 ### 📊 GitHub Stats
